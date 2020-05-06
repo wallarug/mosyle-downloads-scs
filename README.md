@@ -11,3 +11,5 @@ Software:
 
 Other:
 - Toshiba Drivers
+
+Updated manually.
